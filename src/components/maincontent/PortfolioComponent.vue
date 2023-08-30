@@ -10,7 +10,7 @@
         </article>
         <section>
             <figure>
-                <img src="/img/pic-01.jpg" alt="pic-01">
+                <img src="./../../assets/img/pic-01.jpg" alt="pic-01">
                 <figcaption>
                     <h5>
                         new walk
@@ -24,7 +24,7 @@
                 </figcaption>
             </figure>
             <figure>
-                <img src="/img/pic-02.jpg" alt="pic-02">
+                <img src="./../../assets/img/pic-02.jpg" alt="pic-02">
                 <figcaption>
                     <h5>
                         new boat
@@ -38,7 +38,7 @@
                 </figcaption>
             </figure>
             <figure>
-                <img src="/img/pic-03.jpg" alt="pic-03">
+                <img src="./../../assets/img/pic-03.jpg" alt="pic-03">
                 <figcaption>
                     <h5>
                         Big City
@@ -52,7 +52,7 @@
                 </figcaption>
             </figure>
             <figure>
-                <img src="/img/pic-04.jpg" alt="pic-04">
+                <img src="./../../assets/img/pic-04.jpg" alt="pic-04">
                 <figcaption>
                     <h5>
                         gray street
@@ -66,7 +66,7 @@
                 </figcaption>
             </figure>
             <figure>
-                <img src="/img/pic-05.jpg" alt="pic-05">
+                <img src="./../../assets/img/pic-05.jpg" alt="pic-05">
                 <figcaption>
                     <h5>
                         office
@@ -80,7 +80,7 @@
                 </figcaption>
             </figure>
             <figure>
-                <img src="/img/pic-06.jpg" alt="pic-06">
+                <img src="./../../assets/img/pic-06.jpg" alt="pic-06">
                 <figcaption>
                     <h5>
                         new environment
@@ -94,7 +94,7 @@
                 </figcaption>
             </figure>
             <figure>
-                <img src="/img/pic-07.jpg" alt="pic-07">
+                <img src="./../../assets/img/pic-07.jpg" alt="pic-07">
                 <figcaption>
                     <h5>
                         venice
@@ -108,7 +108,7 @@
                 </figcaption>
             </figure>
             <figure>
-                <img src="/img/pic-08.jpg" alt="pic-08">
+                <img src="./../../assets/img/pic-08.jpg" alt="pic-08">
                 <figcaption>
                     <h5>
                         train trail
@@ -130,3 +130,7 @@ export default {
     name: "PortfolioComponent"
 }
 </script>
+
+<style>
+    
+</style>

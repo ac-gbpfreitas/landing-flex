@@ -11,7 +11,7 @@
             <!-- TEAM GALLERY -->
             <article class="team-gallery">
                 <figure>
-                    <img src="/img/pic-17.jpg" alt="Pic-17">
+                    <img src="./../../assets/img/pic-17.jpg" alt="Pic-17">
                     <figcaption>
                         <h4>CINDY</h4>
                         <small>developer</small>
@@ -35,7 +35,7 @@
                     </figcaption>
                 </figure>
                 <figure>
-                    <img src="/img/pic-16.jpg" alt="Pic-16">
+                    <img src="./../../assets/img/pic-16.jpg" alt="Pic-16">
                     <figcaption>
                         <h4>JIM</h4>
                         <small>SALESMAN</small>
@@ -59,7 +59,7 @@
                     </figcaption>
                 </figure>
                 <figure>
-                    <img src="/img/pic-15.jpg" alt="Pic-15">
+                    <img src="./../../assets/img/pic-15.jpg" alt="Pic-15">
                     <figcaption>
                         <h4>KEVIN</h4>
                         <small>ACCOUNTANT</small>
@@ -83,7 +83,7 @@
                     </figcaption>
                 </figure>
                 <figure>
-                    <img src="/img/pic-14.jpg" alt="Pic-14">
+                    <img src="./../../assets/img/pic-14.jpg" alt="Pic-14">
                     <figcaption>
                         <h4>MICHAEL</h4>
                         <small>MANAGER</small>
