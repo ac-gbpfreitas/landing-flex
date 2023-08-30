@@ -3,6 +3,7 @@
         <!-- SERVICES SECTION -->
         <ServicesComponent />
         <!-- SERVICES SECTION END -->
+        <PortfolioComponent />
         <!-- PORTFOLIO SECTION -->
         <!-- PORTFOLIO SECTION END -->
         <!-- TEAM SECTION -->
@@ -14,11 +15,13 @@
 
 <script>
 import ServicesComponent from './maincontent/ServicesComponent.vue';
+import PortfolioComponent from './maincontent/PortfolioComponent.vue';
 
 export default {
     name: "MainContent",
     components : {
-
+        ServicesComponent,
+        PortfolioComponent
     }
 }
 </script>
