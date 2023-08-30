@@ -11,7 +11,7 @@
 <script>
 import NavigationMenu from './NavigationMenu.vue';
 import SocialMenu from './herobanner/SocialMenu.vue';
-import SocialMenu from './herobanner/PageTitle.vue';
+import PageTitle from './herobanner/PageTitle.vue';
 
 export default {
     name: "HeroBanner",

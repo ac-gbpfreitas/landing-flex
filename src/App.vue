@@ -21,4 +21,5 @@ export default {
 
 <style>
 @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css");
+@import url("./assets/css/style.min.css");
 </style>

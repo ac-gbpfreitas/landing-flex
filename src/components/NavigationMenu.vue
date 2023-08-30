@@ -7,9 +7,9 @@
             <h3>
                 FLEX
             </h3>
-            <MegaMenu />
-            <MobileMenu />
         </article>
+        <MegaMenu />
+        <MobileMenu />
     </nav>
 </template>
 
