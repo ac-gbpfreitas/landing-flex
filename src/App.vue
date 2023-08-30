@@ -1,14 +1,16 @@
 <template>
-
+  <HeroBanner />
 </template>
 
 <script>
+import HeroBanner from './components/HeroBanner.vue';
+
 
 
 export default {
   name: 'App',
   components: {
-
+    HeroBanner
   }
 }
 </script>

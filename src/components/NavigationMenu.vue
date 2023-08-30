@@ -10,7 +10,6 @@
             <MegaMenu />
             <MobileMenu />
         </article>
-
     </nav>
 </template>
 
