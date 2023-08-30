@@ -1,16 +1,20 @@
 <template>
   <HeroBanner />
+  <MainContent />
+  <FooterComponent />
 </template>
 
 <script>
+import FooterComponent from './components/FooterComponent.vue';
 import HeroBanner from './components/HeroBanner.vue';
-
-
+import MainContent from './components/MainContent.vue';
 
 export default {
   name: 'App',
   components: {
-    HeroBanner
+    HeroBanner,
+    FooterComponent,
+    MainContent
   }
 }
 </script>
