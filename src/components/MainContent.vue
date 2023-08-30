@@ -10,6 +10,7 @@
         <TeamComponent />
         <!-- TEAM SECTION END -->
         <!-- CONTACT SECTION -->
+        <ContactComponent />
         <!-- CONTACT SECTION END -->
     </main>
 </template>
@@ -18,13 +19,15 @@
 import ServicesComponent from './maincontent/ServicesComponent.vue';
 import PortfolioComponent from './maincontent/PortfolioComponent.vue';
 import TeamComponent from './maincontent/TeamComponent.vue';
+import ContactComponent from './maincontent/ContactComponent.vue';
 
 export default {
     name: "MainContent",
     components : {
         ServicesComponent,
         PortfolioComponent,
-        TeamComponent
+        TeamComponent,
+        ContactComponent
     }
 }
 </script>
