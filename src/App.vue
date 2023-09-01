@@ -15,6 +15,9 @@ export default {
     HeroBanner,
     FooterComponent,
     MainContent
+  },
+  created() {
+    document.title = "Flex Landing Page";
   }
 }
 </script>
